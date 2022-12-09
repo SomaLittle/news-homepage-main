@@ -1,0 +1,23 @@
+@media (max-width: 615px) {
+    .navigation-wrapper {
+        flex-direction: column;
+        height: 100%;
+    }
+
+    .center-container {
+        flex-direction: column;
+        height: 100%;
+    }
+
+    .lower-container {
+        flex-direction: column;
+        height: 100%;
+    }
+
+    .lower-nav {
+        flex-direction: column;
+        height: 100%;
+    }
+}
+
+@med

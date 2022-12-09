@@ -1,0 +1,189 @@
+body {
+    margin: 75px;
+    margin-left: 130px;
+    margin-right: 86px;
+}
+
+.navigation-wrapper {
+    display: flex;
+    justify-content: space-between;
+    margin: 40px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+.random-w {
+    font-size: 50px;
+    font-weight: 800;
+    font-family: 'Slabo 27px', serif
+}
+
+.navbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 450px;
+    font-family: "Inter", sans-serif;
+    font-size: 14px;
+    color: silver;
+
+}
+
+.center-container {
+    display: flex;
+    height: 633px;
+    width: 100vw;
+}
+
+.center-container-left {
+    display: grid;
+}
+
+.lower-container {
+    display: flex;
+}
+
+.lower-left-column {
+    font-family: 'Inter', sans-serif;
+    font-weight: 800;
+    font-size: 58px;
+    display: grid;
+    width: 400px;
+    height: 200px;
+    margin-top: 30px;
+    padding-right: 30px;
+}
+
+.lower-right-column {
+    display: grid;
+    width: 440px;
+    margin-top: 40px;
+    font-size: 19px;
+    font-family: 'Inter', sans-serif;
+    color: silver;
+}
+
+.btn {
+    width: 200px;
+    height: 50px;
+    margin-top: 40px;
+    background-color: orangered;
+    color: white;
+    font-size: 18px;
+    font-weight: 600;
+    font-family: 'Inter', sans-serif;
+    border-color: orangered;
+    
+}
+
+.center-container-right {
+    display: flex;
+    margin-left: 30px;
+}
+
+.banner > img {
+    width: 925px;
+}
+
+.new-column {
+    display: flex;
+    width: 367px;
+    background: #00001a;
+    padding: 22px;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.new-header {
+    font-family: 'Inter', sans-serif;
+    font-size: 38px;
+    color: goldenrod;
+    font-weight: 700;
+}
+
+.new-containers {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+
+.subheader {
+    font-size: 26px;
+    font-family: 'Inter', sans-serif;
+    color: white;
+    font-weight: 700;
+}
+
+.subtext {
+    font-size: 16px;
+    font-family: 'Inter', sans-serif;
+    font-weight: 200;
+    border-bottom: solid 1px white;
+    color: whitesmoke;
+    width: 360px;
+    padding-bottom: 30px;
+    padding-top: 30px;
+}
+
+.final-subtext {
+    font-size: 16px;
+    font-family: 'Inter', sans-serif;
+    color: whitesmoke;
+    width: 360px;
+    padding-bottom: 30px;
+    padding-top: 30px;
+}
+
+.lower-nav {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 75px;
+    margin-bottom: 50px;
+}
+
+.nav-container {
+    display: flex;
+    width: 350px;
+}
+
+.retro-pc > img {
+    height: 120px;
+}
+
+.top-tops > img {
+    height: 120px;
+}
+
+.gaming > img {
+    height: 120px;
+}
+
+.text-container {
+    display: flex;
+    flex-direction: column;
+    margin-left: 20px;
+    justify-content: space-around;
+    align-items: flex-start;
+}
+
+.footer {
+    font-family: 'Inter', sans-serif;
+    font-size: 26px;
+    color: silver;
+    font-weight: 700;
+}
+
+.footer-label {
+    font-family: 'Inter', sans-serif;
+    font-size: 20px;
+    color: navy;
+    font-weight: 700;
+}
+
+.footer-text {
+    font-family: 'Inter', sans-serif;
+    font-size: 14px;
+    color: silver;
+    font-weight: 400;
+}
